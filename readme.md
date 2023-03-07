@@ -1,0 +1,1 @@
+simple code that does the pythag theryum 
